@@ -1,4 +1,3 @@
-Bhai mast 🔥 — aaj jo jo tu Docker me kiya hai usko mai **proper notes format + problem statements + answers** me convert kar raha hu. Tu directly isko apne notebook / exam me use kar sakta hai 💯
 
 ---
 
